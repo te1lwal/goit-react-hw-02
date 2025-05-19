@@ -1,0 +1,18 @@
+.buttons {
+  display: flex;
+  gap: 10px;
+  margin: 16px 0;
+}
+
+button {
+  padding: 8px 16px;
+  border-radius: 8px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.reset {
+  padding: 8px 12px;
+  cursor: pointer;
+  border-radius: 8px;
+}
